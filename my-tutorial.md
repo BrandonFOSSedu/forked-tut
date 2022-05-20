@@ -9,6 +9,11 @@ Help Wonder Woman navigate through the crates and find the missing painting piec
 
 I'm an update that won't be on main site!
 
+```blocks
+player.say(":)")
+```
+
+
 ```ghost
 player.onChat("run", function () {
     if (ww.locatePainting(Direction.Forward)) {
