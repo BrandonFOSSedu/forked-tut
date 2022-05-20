@@ -1,5 +1,7 @@
 
-> Open this page at [https://jwunderl.github.io/my-minecraft-tut/](https://jwunderl.github.io/my-minecraft-tut/)
+```blocks
+player.say("Hello")
+```
 
 ## Use as Extension
 
